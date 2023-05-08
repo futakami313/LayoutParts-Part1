@@ -11,6 +11,7 @@
   color: #fff;
   background: #00bbdd;
 }
+
 .table-reverse{
   display: flex;
   flex-direction: row-reverse;
@@ -84,7 +85,7 @@
   margin: 20px 0;
 }
 
-.wrapper{
+.color-box{
   display: grid;
   grid-template-columns: 100px 100px 100px;
   grid-template-rows: 100px 100px 100px;
@@ -102,3 +103,4 @@
   grid-column: 2/4;
   background: #c9dd00;
 }
+
